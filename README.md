@@ -12,6 +12,5 @@ Busco sempre aumentar minha experiência para desenvolver mais e mais serviços.
 
 ## GitHub Stats
 
-![Cauã's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Cauã's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
